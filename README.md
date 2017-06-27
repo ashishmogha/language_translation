@@ -7,9 +7,9 @@
 
 # Dataset
 
-* [small_vocab_en](https://raw.githubusercontent.com/ashishmogha/language_translation/master/data/small_vocab_en?token=ARFQ9yZyeh_o-O6j7535eH5K1y7i12veks5ZW4BCwA%3D%3D)
+* [small_vocab_en](https://raw.githubusercontent.com/ashishmogha/language_translation/master/data/small_vocab_en?token=ARFQ9yZyeh_o-O6j7535eH5K1y7i12veks5ZW4BCwA%3D%3D) - English Dataset
 
-* [small_vocab_fr](https://raw.githubusercontent.com/ashishmogha/language_translation/master/data/small_vocab_fr?token=ARFQ92cZacZr8zXDR551oXn90qfLVIDTks5ZW4BEwA%3D%3D) 
+* [small_vocab_fr](https://raw.githubusercontent.com/ashishmogha/language_translation/master/data/small_vocab_fr?token=ARFQ92cZacZr8zXDR551oXn90qfLVIDTks5ZW4BEwA%3D%3D) - French Dataset
 
 
 # Libraries
